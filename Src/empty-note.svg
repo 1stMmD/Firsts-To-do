@@ -1,0 +1,5 @@
+<svg width="85" height="100" viewBox="0 0 85 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path id="note-logo" d="M0 6C0 2.68629 2.68629 0 6 0H54C57.3137 0 60 2.68629 60 6C60 9.31371 57.3137 12 54 12H12V88H73V29C73 25.6863 75.6863 23 79 23C82.3137 23 85 25.6863 85 29V92C85 92.3407 84.9716 92.6748 84.917 93C84.9716 93.3252 85 93.6593 85 94C85 97.3137 82.3137 100 79 100H6C2.68629 100 0 97.3137 0 94V6Z" fill="white"/>
+<rect id="Rectangle 1" x="20" y="44" width="44" height="12" fill="white"/>
+<rect id="Rectangle 2" x="36" y="72" width="44" height="12" transform="rotate(-90 36 72)" fill="white"/>
+</svg>
