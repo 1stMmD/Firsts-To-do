@@ -1,14 +1,14 @@
 {
     
     "manifest_version" : 3,
-    "name" : "Firts To-Do",
+    "name" : "First things todo - Todolists & Notes",
     "version" : "1.0",
-    "description" : "Calculate Anywhere",
+    "description" : "Create todo lists and take notes with a simple and quick way.",
     "icons" : 
     {
-        "128" : "Src/crown.jpg",
-        "48" : "Src/crown.jpg",
-        "16" : "Src/crown.jpg"
+        "128" : "icons/app-logo-128.png",
+        "48" : "icons/app-logo-48.png",
+        "16" : "icons/app-logo-16.png"
     },
     "action":
     {
